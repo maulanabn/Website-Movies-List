@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 32px auto;
+    padding: 16px;
+    background-color: #9dc183;
+  }
+  
+  html {
+    
+    position: relative;
+    min-height: 100%;
+  }
+  
